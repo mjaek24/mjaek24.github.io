@@ -20,12 +20,12 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://mjaek24.github.io/'
 
-author: Fema                 # change to your full name
+author: your_full_name                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: 낯가리는 개발자             # change to your github username
+  username: github_username             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -51,7 +51,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Seoul
+timezone: Asia/Shanghai
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
@@ -87,7 +87,6 @@ paginate: 10
 
 markdown: kramdown
 
-<<<<<<< HEAD
 highlighter: rouge
 
 kramdown:
@@ -199,6 +198,3 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - sitemap.xml
     - robots.txt
     - redirects.json
-=======
-theme: jekyll-theme-midnight
->>>>>>> 2dae7b3f8da38d3130e4f5abc22f677339b1458b
