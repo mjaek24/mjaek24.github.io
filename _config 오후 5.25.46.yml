@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -19,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Monos
+title: 낯가리는 개발자
 email: mjaek24@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Themed by ejjoo
@@ -57,6 +56,3 @@ tag_dir: tag/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-=======
-theme: jekyll-theme-midnight
->>>>>>> ae9db0875a59611951f16214591cedc56e8a90df
