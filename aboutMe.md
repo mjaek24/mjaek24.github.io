@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Minjae Kim
+## 재이
 > Developer
 
 ![alt text](/public/img/photo.jpeg)
