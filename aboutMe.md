@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## 재이
+## Fema
 > Developer
 
 ![alt text](/public/img/photo.jpeg)
