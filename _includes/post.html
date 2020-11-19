@@ -13,7 +13,9 @@
 		{{ content }}
 	</div>
 	{% if page.comments != false %}
+	<div>
   		{% include disqus.html %}
+	</div>
 	{% endif %}
 </article>
 
