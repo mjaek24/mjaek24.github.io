@@ -12,10 +12,8 @@
 	<div class="post-content">
 		{{ content }}
 	</div>
-	{ % if page.comments %}
-	<div id="post-disqus" class="container">
-	{ % include disqus.html %}
-	</div>
-	{ % endif %}
+	{% if page.comments != false %}
+  		{% include disqus.html %}
+	{% endif %}
 </article>
 
