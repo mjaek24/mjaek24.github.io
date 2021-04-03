@@ -1,3 +1,17 @@
+layout: post
+comments: true
+author: MinjaeGhim
+title: "Mac Terminal 에서 사용할 Custom 명령어 만들기"
+description: 자동화를 좋아하는 사람들을 위한 Custom 명령어 만드는 방법
+image: "https://user-images.githubusercontent.com/48783078/65959069-f7c54b00-e48b-11e9-9a09-76d493b1731a.png"
+categories:
+- programming
+date: 2021-04-04 12:40:00
+tags:
+- schell script
+introduction: 자동화를 좋아하는 사람들을 위한 Custom 명령어 만드는 방법
+---
+
 ## Mac Terminal 에서 Custom 명령어 만들기
   
 우리가 컴퓨터를 키면 항상 실행하는 프로그램들이 있습니다.
